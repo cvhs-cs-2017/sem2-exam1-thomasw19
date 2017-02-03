@@ -19,10 +19,10 @@ thomas.forward(300)
 thomas.right(135)
 thomas.forward.(200)
 thomas.right(45)
-thomas.forward(300)	
+thomas.forward(300)
 """Import and Call the DrawRectangle(Anyturtle, l, w) function from the
 file MyFile.py"""
-"""
+
 import turle
 thomas = turle
 def AddTen(n):
