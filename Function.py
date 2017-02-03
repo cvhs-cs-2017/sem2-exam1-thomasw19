@@ -6,11 +6,11 @@ def f(x):
   y2 = y0 ** y3
   return (y0,y1,y2)
 
-print (f)  
+print (f)
 
 
 
-
+#
 """Write a program that will prompt the user for an input value (n) and print
 the result of 3n by calling the function defined above.  Make sure you include
 the necessary print statements and address any issues with whitespace. """
