@@ -1,6 +1,12 @@
 """Define a function that will take a parameter, n, and triple it and return
 the result"""
+def f(x):
+  y0 = x + 1
+  y1 = x * 3
+  y2 = y0 ** y3
+  return (y0,y1,y2)
 
+print (f)  
 
 
 
