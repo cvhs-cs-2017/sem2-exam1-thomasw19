@@ -97,3 +97,19 @@
 
 """Import and Call the DrawRectangle(Anyturtle, l, w) function from the
 file MyFile.py"""
+import turle
+thomas = turle
+def AddTen(n):
+    n = n + 10
+    return n
+print ()
+
+
+l = 14
+w = 20
+def DrawRectangle(thomas,l, w):
+    for i in range (4):
+        thomas.forward(14)
+        thomas.right(90)
+        thomas.forward(w)
+DrawRectangle (thomas, l, w)
