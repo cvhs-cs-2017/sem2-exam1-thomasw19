@@ -13,7 +13,7 @@ def DrawRectangle(thomas,l, w):
         thomas.forward(14)
         thomas.right(90)
         thomas.forward(w)
-DrawRectangle (thomas, l, w)
+DrawRectangle (thomas, 20, 30)
 
 
 def DrawPoly(exam, n):
